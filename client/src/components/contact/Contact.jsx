@@ -36,7 +36,7 @@ const Contact = () => {
                         <Portfolio/>
                     </Link>
                     or send me an Email 
-                    <Link href="mailto:codeforinterview@gmail.com?Subject=This is a subject" target="_blank" color="inherit">
+                    <Link href="divyanshsri1101@gmail.com?Subject=This is a subject" target="_blank" color="inherit">
                         <Email />
                     </Link>.
                 </Text>
