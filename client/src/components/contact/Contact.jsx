@@ -30,8 +30,10 @@ const Contact = () => {
                 <Typography variant="h3">Getting in touch is easy!</Typography>    
                 <Text variant="h5">
                     Reach out to me on
-                    <Link href="https://www.instagram.com/codeforinterview/" color="inherit" target="_blank">
-                        <Instagram/>
+                    <Link href="https://www.linkedin.com/in/divyansh-srivastava-34894b219/" color="inherit" target="_blank">
+                        <LinkedIn/>
+                    <Link href="https://my-portfolio-five-zeta-58.vercel.app/" color="inherit" target="_blank">
+                        <Portfolio/>
                     </Link>
                     or send me an Email 
                     <Link href="mailto:codeforinterview@gmail.com?Subject=This is a subject" target="_blank" color="inherit">
